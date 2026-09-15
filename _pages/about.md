@@ -27,7 +27,7 @@ I received my bachelor's degree from **Harbin Institute of Technology** and my m
 
 ### Vision-Language-Action Models and End-to-End in Autonomous Driving
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/publications/2506.08052.png' alt='ReCogDrive main figure'></div><div class='paper-box-text' markdown='1'>
+<div class='paper-box'><div class='paper-box-image'><img src='images/publications/recogdrive.png' alt='ReCogDrive main figure'></div><div class='paper-box-text' markdown='1'>
 
 **ReCogDrive: A Reinforced Cognitive Framework for End-to-End Autonomous Driving**<br>
 Yongkang Li*, Kaixin Xiong*, Xiangyu Guo, **Fang Li**, Sixu Yan, Gangwei Xu, Lijun Zhou, Long Chen, Haiyang Sun, Bing Wang, Kun Ma, Guang Chen, Hangjun Ye, Wenyu Liu, Xinggang Wang<br>
@@ -36,7 +36,7 @@ Yongkang Li*, Kaixin Xiong*, Xiangyu Guo, **Fang Li**, Sixu Yan, Gangwei Xu, Lij
 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/publications/2604.18486.png' alt='OneVL main figure'></div><div class='paper-box-text' markdown='1'>
+<div class='paper-box'><div class='paper-box-image'><img src='images/publications/OneVL.png' alt='OneVL main figure'></div><div class='paper-box-text' markdown='1'>
 
 **OneVL: One-Step Latent Reasoning and Planning with Vision-Language Explanation**<br>
 Jinghui Lu, Jiayi Guan, Zhijian Huang, Jinlong Li, Guang Li, Lingdong Kong, Yingyan Li, Han Wang, Shaoqing Xu, Yuechen Luo, **Fang Li**, et al.<br>
@@ -45,7 +45,7 @@ Jinghui Lu, Jiayi Guan, Zhijian Huang, Jinlong Li, Guang Li, Lingdong Kong, Ying
 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/publications/2603.01063.png' alt='Unleashing VLA Potentials main figure'></div><div class='paper-box-text' markdown='1'>
+<div class='paper-box'><div class='paper-box-image'><img src='images/publications/ELF-VLA.png' alt='Unleashing VLA Potentials main figure'></div><div class='paper-box-text' markdown='1'>
 
 **Unleashing VLA Potentials in Autonomous Driving via Explicit Learning from Failures**<br>
 Yuechen Luo*, **Fang Li***, Qimao Chen*, Shaoqing Xu, Jiaxin Liu, Ziying Song, Zhi-Xin Yang, Fuxi Wen<br>
@@ -54,7 +54,7 @@ Yuechen Luo*, **Fang Li***, Qimao Chen*, Shaoqing Xu, Jiaxin Liu, Ziying Song, Z
 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/publications/2509.13769.png' alt='AdaThinkDrive main figure'></div><div class='paper-box-text' markdown='1'>
+<div class='paper-box'><div class='paper-box-image'><img src='images/publications/adathinkdrive.png' alt='AdaThinkDrive main figure'></div><div class='paper-box-text' markdown='1'>
 
 **AdaThinkDrive: Adaptive Thinking via Reinforcement Learning for Autonomous Driving**<br>
 Yuechen Luo, **Fang Li**, Shaoqing Xu, Zhiyi Lai, Lei Yang, Qimao Chen, Ziang Luo, Zixun Xie, Shengyin Jiang, Jiaxin Liu, Long Chen, Bing Wang, Zhi-Xin Yang<br>
@@ -63,7 +63,7 @@ Yuechen Luo, **Fang Li**, Shaoqing Xu, Zhiyi Lai, Lei Yang, Qimao Chen, Ziang Lu
 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/publications/2603.01928.png' alt='LaST-VLA main figure'></div><div class='paper-box-text' markdown='1'>
+<div class='paper-box'><div class='paper-box-image'><img src='images/publications/Last-VLA.png' alt='LaST-VLA main figure'></div><div class='paper-box-text' markdown='1'>
 
 **LaST-VLA: Thinking in Latent Spatio-Temporal Space for Vision-Language-Action in Autonomous Driving**<br>
 Yuechen Luo, **Fang Li**, Shaoqing Xu, Yang Ji, Zehan Zhang, Bing Wang, Yuannan Shen, Jianwei Cui, Long Chen, Guang Chen, Hangjun Ye, Zhi-Xin Yang, Fuxi Wen<br>
@@ -72,7 +72,7 @@ Yuechen Luo, **Fang Li**, Shaoqing Xu, Yang Ji, Zehan Zhang, Bing Wang, Yuannan 
 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/publications/2604.00813.png' alt='DVGT-2 main figure'></div><div class='paper-box-text' markdown='1'>
+<div class='paper-box'><div class='paper-box-image'><img src='images/publications/DVGT-2.png' alt='DVGT-2 main figure'></div><div class='paper-box-text' markdown='1'>
 
 **DVGT-2: Vision-Geometry-Action Model for Autonomous Driving at Scale**<br>
 Sicheng Zuo, Zixun Xie, Wenzhao Zheng, Shaoqing Xu, **Fang Li**, Hanbing Li, Long Chen, Zhi-Xin Yang, Jiwen Lu<br>
@@ -81,7 +81,7 @@ Sicheng Zuo, Zixun Xie, Wenzhao Zheng, Shaoqing Xu, **Fang Li**, Hanbing Li, Lon
 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/publications/2606.08525.png' alt='DriveReward main figure'></div><div class='paper-box-text' markdown='1'>
+<div class='paper-box'><div class='paper-box-image'><img src='images/publications/drivereward.png' alt='DriveReward main figure'></div><div class='paper-box-text' markdown='1'>
 
 **DriveReward: A Comprehensive Dataset and Generative Vision-Language Reward Model for Autonomous Driving**<br>
 Qimao Chen, **Fang Li**, Yuechen Luo, Zehan Zhang, Haiyang Sun, Fangzhen Li, Bing Wang, Guang Chen, Yang Ji, Jiong Deng, et al.<br>
@@ -90,7 +90,7 @@ Qimao Chen, **Fang Li**, Yuechen Luo, Zehan Zhang, Haiyang Sun, Fangzhen Li, Bin
 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/publications/2601.12672.png' alt='VILTA main figure'></div><div class='paper-box-text' markdown='1'>
+<div class='paper-box'><div class='paper-box-image'><img src='images/publications/VILTA.png' alt='VILTA main figure'></div><div class='paper-box-text' markdown='1'>
 
 **VILTA: A VLM-in-the-Loop Adversary for Enhancing Driving Policy Robustness**<br>
 Qimao Chen*, **Fang Li***, Shaoqing Xu*, Zhiyi Lai, Zixun Xie, Yuechen Luo, Shengyin Jiang, Hanbing Li, Long Chen, Bing Wang, Yi Zhang, Zhi-Xin Yang<br>
@@ -99,7 +99,7 @@ Qimao Chen*, **Fang Li***, Shaoqing Xu*, Zhiyi Lai, Zixun Xie, Yuechen Luo, Shen
 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/publications/2607.17521.png' alt='GeoWorldAD main figure'></div><div class='paper-box-text' markdown='1'>
+<div class='paper-box'><div class='paper-box-image'><img src='images/publications/GeoWorldAD.png' alt='GeoWorldAD main figure'></div><div class='paper-box-text' markdown='1'>
 
 **GeoWorldAD: Geometry World Action Model for Autonomous Driving**<br>
 Songyan Zhang, Jinyuan Tian, Hanbing Li, Daqi Liu, Hao Chen, Wenhui Huang, **Fang Li**, Guang Chen, Hangjun Ye, Long Chen, Kuiyuan Yang, Chen Lv<br>
@@ -108,7 +108,7 @@ Songyan Zhang, Jinyuan Tian, Hanbing Li, Daqi Liu, Hao Chen, Wenhui Huang, **Fan
 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/publications/2507.02948.png' alt='DriveMRP main figure'></div><div class='paper-box-text' markdown='1'>
+<div class='paper-box'><div class='paper-box-image'><img src='images/publications/DriveMRP.png' alt='DriveMRP main figure'></div><div class='paper-box-text' markdown='1'>
 
 **DriveMRP: Enhancing Vision-Language Models with Synthetic Motion Data for Motion Risk Prediction**<br>
 Zhiyi Hou, Enhui Ma, **Fang Li**, Zhiyi Lai, Kalok Ho, Zhanqian Wu, Lijun Zhou, Long Chen, Chitian Sun, Haiyang Sun, Bing Wang, Guang Chen, Hangjun Ye, Kaicheng Yu<br>
@@ -119,7 +119,7 @@ Zhiyi Hou, Enhui Ma, **Fang Li**, Zhiyi Lai, Kalok Ho, Zhanqian Wu, Lijun Zhou, 
 
 ### Perception and Visual Geometry
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/publications/2512.16919.png' alt='DVGT main figure'></div><div class='paper-box-text' markdown='1'>
+<div class='paper-box'><div class='paper-box-image'><img src='images/publications/DVGT.png' alt='DVGT main figure'></div><div class='paper-box-text' markdown='1'>
 
 **DVGT: Driving Visual Geometry Transformer**<br>
 Sicheng Zuo*, Zixun Xie*, Wenzhao Zheng*, Shaoqing Xu, **Fang Li**, Shengyin Jiang, Long Chen, Zhi-Xin Yang, Jiwen Lu<br>
@@ -128,7 +128,7 @@ Sicheng Zuo*, Zixun Xie*, Wenzhao Zheng*, Shaoqing Xu, **Fang Li**, Shengyin Jia
 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/publications/2411.12452.png' alt='GaussianPretrain main figure'></div><div class='paper-box-text' markdown='1'>
+<div class='paper-box'><div class='paper-box-image'><img src='images/publications/gaussian_pretrain.png' alt='GaussianPretrain main figure'></div><div class='paper-box-text' markdown='1'>
 
 **GaussianPretrain: A Simple Unified 3D Gaussian Representation for Visual Pre-training in Autonomous Driving**<br>
 Shaoqing Xu, **Fang Li**, Shengyin Jiang, Ziying Song, Li Liu, Zhi-Xin Yang<br>
@@ -137,7 +137,7 @@ Shaoqing Xu, **Fang Li**, Shengyin Jiang, Ziying Song, Li Liu, Zhi-Xin Yang<br>
 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/publications/2412.20911.png' alt='TiGDistill-BEV main figure'></div><div class='paper-box-text' markdown='1'>
+<div class='paper-box'><div class='paper-box-image'><img src='images/publications/TiG.png' alt='TiGDistill-BEV main figure'></div><div class='paper-box-text' markdown='1'>
 
 **TiGDistill-BEV: Multi-view BEV 3D Object Detection via Target Inner-Geometry Learning Distillation**<br>
 Shaoqing Xu, **Fang Li**, Peixiang Huang, Ziying Song, Zhi-Xin Yang<br>
@@ -146,7 +146,7 @@ Shaoqing Xu, **Fang Li**, Peixiang Huang, Ziying Song, Zhi-Xin Yang<br>
 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/publications/2212.05265.png' alt='SparseInteraction main figure'></div><div class='paper-box-text' markdown='1'>
+<div class='paper-box'><div class='paper-box-image'><img src='images/publications/SparseInteraction.png' alt='SparseInteraction main figure'></div><div class='paper-box-text' markdown='1'>
 
 **SparseInteraction: Sparse Semantic Guidance for Radar and Camera 3D Object Detection**<br>
 Shaoqing Xu*, Shengyin Jiang*, **Fang Li***, Li Liu, Ziying Song, Bo Yang, Zhi-Xin Yang<br>
@@ -155,18 +155,18 @@ Shaoqing Xu*, Shengyin Jiang*, **Fang Li***, Li Liu, Ziying Song, Bo Yang, Zhi-X
 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/publications/2212.05265.png' alt='Multi-Sem Fusion main figure'></div><div class='paper-box-text' markdown='1'>
+<!-- <div class='paper-box'><div class='paper-box-image'><img src='images/publications/2212.05265.png' alt='Multi-Sem Fusion main figure'></div><div class='paper-box-text' markdown='1'>
 
 **Multi-Sem Fusion: Multimodal Semantic Fusion for 3D Object Detection**<br>
 Shaoqing Xu, **Fang Li**, Ziying Song, Jin Fang, Sifen Wang, Zhi-Xin Yang<br>
 *IEEE Transactions on Geoscience and Remote Sensing, 2024.* An adaptive semantic fusion framework that combines image and point-cloud parsing results for multimodal 3D object detection.<br>
 [[Paper](https://arxiv.org/abs/2212.05265)]
 
-</div></div>
+</div></div> -->
 
 ### Embodied Intelligence and Vision Language Navigation
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/publications/2608.26058.png' alt='One Policy, Many Embodiments main figure'></div><div class='paper-box-text' markdown='1'>
+<div class='paper-box'><div class='paper-box-image'><img src='images/publications/UCAG-P.png' alt='One Policy, Many Embodiments main figure'></div><div class='paper-box-text' markdown='1'>
 
 **One Policy, Many Embodiments: Unified Camera-Centric Action Geometry Pre-training for Heterogeneous Embodied Manipulation**<br>
 Xiaomi Embodied Intelligence Team, Shaoqing Xu, **Fang Li**, Guozhi Zhan, Zhixiang Duan, Yuhan Wang, Yuechen Luo, et al.<br>
@@ -175,7 +175,7 @@ Xiaomi Embodied Intelligence Team, Shaoqing Xu, **Fang Li**, Guozhi Zhan, Zhixia
 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/publications/2604.27620.png' alt='SpaAct main figure'></div><div class='paper-box-text' markdown='1'>
+<div class='paper-box'><div class='paper-box-image'><img src='images/publications/SpaAct.png' alt='SpaAct main figure'></div><div class='paper-box-text' markdown='1'>
 
 **SpaAct: Spatially-Activated Transition Learning with Curriculum Adaptation for Vision-Language Navigation**<br>
 **Fang Li**, et al.<br>
@@ -183,7 +183,7 @@ Xiaomi Embodied Intelligence Team, Shaoqing Xu, **Fang Li**, Guozhi Zhan, Zhixia
 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/publications/2604.17407.png' alt='Think before Go main figure'></div><div class='paper-box-text' markdown='1'>
+<div class='paper-box'><div class='paper-box-image'><img src='images/publications/Think_before_go.png' alt='Think before Go main figure'></div><div class='paper-box-text' markdown='1'>
 
 **Think before Go: Hierarchical Reasoning for Image-goal Navigation**<br>
 Pengna Li*, Kangyi Wu*, Shaoqing Xu, **Fang Li**, Lin Zhao, Long Chen, Zhi-Xin Yang, Nanning Zheng<br>
