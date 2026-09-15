@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Your Name | Academic Homepage"
-description              : "Researcher in AI, multimodality, and embodied intelligence."
+title                    : "李方 | Academic Homepage"
+description              : "Researcher in Autonomous  Driving, and Embodied Intelligence."
 repository               : "Leedonus/Leedonus.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -15,20 +15,20 @@ google_scholar_stats_use_cdn : false
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
+google_site_verification :  "https://scholar.google.com/citations?user=8VBMiVMAAAAJ&hl=zh-CN"
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "李方"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Researcher in Artificial Intelligence"
-  location         : "City, Country"
+  bio              : "Researcher in Autonomous Driving"
+  location         : "Beijing"
   employer         :
   pubmed           : 
-  googlescholar    :
-  email            : "your.email@example.com"
+  googlescholar    : "https://scholar.google.com/citations?user=8VBMiVMAAAAJ&hl=zh-CN"
+  email            : "a319457899@163.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
