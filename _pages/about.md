@@ -12,16 +12,16 @@ redirect_from:
 
 ## About Me
 
-I am currently working in the **End-to-End Algorithm Group at Xiaomi EV**, focusing on intelligent driving.
+I am currently working in the **End-to-End Group at Xiaomi EV**, focusing on Autonomous driving.
 
-Previously, I was responsible for the perception One-Model in the data closed-loop pipeline, joint training for onboard perception, multimodal video understanding, and onboard end-to-end planning algorithms.
+Previously, I was responsible for the offline perception One-Model in data group, joint training for onboard perception, multimodal video understanding, and onboard end-to-end planning algorithms.
 
-I received my bachelor's degree from **Harbin Institute of Technology** and my master's degree from **Beijing Institute of Technology**. My research interests include **autonomous driving perception, vision-language-action (VLA), reinforcement learning (RL), world action models (WAM), and pretraining in agentic intelligence for embodied AI**.
+I received my bachelor's degree from **Harbin Institute of Technology** and my master's degree from **Beijing Institute of Technology**. My research interests include **perception, vision-language-action (VLA), reinforcement learning (RL), world action models (WAM), and pretraining in agentic intelligence for embodied AI**.
 
-## News
+<!-- ## News
 
 - *2026.09*: The homepage is now online.
-- *YYYY.MM*: Add your latest news here.
+- *YYYY.MM*: Add your latest news here. -->
 
 ## Selected Publications
 
@@ -45,7 +45,7 @@ Jinghui Lu, Jiayi Guan, Zhijian Huang, Jinlong Li, Guang Li, Lingdong Kong, Ying
 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/publications/ELF-VLA.png' alt='Unleashing VLA Potentials main figure'></div><div class='paper-box-text' markdown='1'>
+<div class='paper-box'><div class='paper-box-image'><img src='images/publications/ELF_VLA.png' alt='Unleashing VLA Potentials main figure'></div><div class='paper-box-text' markdown='1'>
 
 **Unleashing VLA Potentials in Autonomous Driving via Explicit Learning from Failures**<br>
 Yuechen Luo*, **Fang Li***, Qimao Chen*, Shaoqing Xu, Jiaxin Liu, Ziying Song, Zhi-Xin Yang, Fuxi Wen<br>
@@ -195,10 +195,10 @@ Pengna Li*, Kangyi Wu*, Shaoqing Xu, **Fang Li**, Lin Zhao, Long Chen, Zhi-Xin Y
 
 ## Education
 
-- *YYYY–Present*: Degree or position, **Your Institution**.
-- *YYYY–YYYY*: Degree, **Previous Institution**.
+- *2020.09-2023.06*: Master, **Beijing Institute of Technology**.
+- *2016.09-2020.06*: Undergraduate, **Harbin Institute of Technology**.
 
-## Experience
+<!-- ## Experience
 
 - *YYYY–Present*: Researcher / Ph.D. Student, **Your Institution**.
 - *YYYY–YYYY*: Intern / Research Assistant, **Organization**.
@@ -213,4 +213,4 @@ Pengna Li*, Kangyi Wu*, Shaoqing Xu, **Fang Li**, Lin Zhao, Long Chen, Zhi-Xin Y
 
 ## Contact
 
-The best way to reach me is by email: `your.email@example.com`.
+The best way to reach me is by email: `your.email@example.com`. -->
