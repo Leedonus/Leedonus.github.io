@@ -14,7 +14,7 @@ redirect_from:
 
 I am currently working in the **End-to-End Group at Xiaomi EV**, focusing on Autonomous driving.
 
-Previously, I was responsible for the offline perception One-Model in data group, joint training for onboard perception, multimodal video understanding, and onboard end-to-end planning algorithms.
+Previously, I was responsible for the offline perception One-Model in data group, joint training for onboard perception, multimodal video understanding, and onboard End-to-End planning.
 
 I received my bachelor's degree from **Harbin Institute of Technology** and my master's degree from **Beijing Institute of Technology**. My research interests include **perception, vision-language-action (VLA), reinforcement learning (RL), world action models (WAM), and pretraining in agentic intelligence for embodied AI**.
 
@@ -25,12 +25,23 @@ I received my bachelor's degree from **Harbin Institute of Technology** and my m
 
 ## Selected Publications
 
+<sup>*</sup> Equal contribution.
+
 ### Vision-Language-Action Models and End-to-End in Autonomous Driving
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/publications/drivefoundry-01.png' alt='DriveFoundry main figure'></div><div class='paper-box-text' markdown='1'>
+
+**DriveFoundry: Co-Evolving Data and Model for Efficient Closed-Loop Iteration in Autonomous Driving**<br>
+Xiaomi EV, Ziyang Yao, Yuncheng Jiang, **Fang Li**, Wen Zhang, Xiangyang Chu, Zibin Guo, Haochen Liu, Shaoqing Xu, et al.<br>
+*Technical Report, 2026.* A closed-loop driving foundation framework that couples structured causal data refinement with adaptive inference for efficient model iteration.<br>
+[[Paper](https://www.alphaxiv.org/abs/2611.xiaomi-drive-o1.pdf)] [[Project](https://Xiaomi-EV.github.io/Xiaomi-Drive-o1)]
+
+</div></div>
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/publications/recogdrive.png' alt='ReCogDrive main figure'></div><div class='paper-box-text' markdown='1'>
 
 **ReCogDrive: A Reinforced Cognitive Framework for End-to-End Autonomous Driving**<br>
-Yongkang Li*, Kaixin Xiong*, Xiangyu Guo, **Fang Li**, Sixu Yan, Gangwei Xu, Lijun Zhou, Long Chen, Haiyang Sun, Bing Wang, Kun Ma, Guang Chen, Hangjun Ye, Wenyu Liu, Xinggang Wang<br>
+Yongkang Li<sup>*</sup>, Kaixin Xiong<sup>*</sup>, Xiangyu Guo, **Fang Li**, Sixu Yan, Gangwei Xu, Lijun Zhou, Long Chen, Haiyang Sun, Bing Wang, Kun Ma, Guang Chen, Hangjun Ye, Wenyu Liu, Xinggang Wang<br>
 *ICLR, 2026.* A reinforced cognitive driving framework that integrates vision-language reasoning with a diffusion planner for continuous trajectory generation.<br>
 [[Paper](https://arxiv.org/abs/2506.08052)] [[Code](https://github.com/xiaomi-research/recogdrive)]
 
@@ -48,7 +59,7 @@ Jinghui Lu, Jiayi Guan, Zhijian Huang, Jinlong Li, Guang Li, Lingdong Kong, Ying
 <div class='paper-box'><div class='paper-box-image'><img src='images/publications/ELF_VLA.png' alt='Unleashing VLA Potentials main figure'></div><div class='paper-box-text' markdown='1'>
 
 **Unleashing VLA Potentials in Autonomous Driving via Explicit Learning from Failures**<br>
-Yuechen Luo*, **Fang Li***, Qimao Chen*, Shaoqing Xu, Jiaxin Liu, Ziying Song, Zhi-Xin Yang, Fuxi Wen<br>
+Yuechen Luo<sup>*</sup>, **Fang Li**<sup>*</sup>, Qimao Chen<sup>*</sup>, Shaoqing Xu, Jiaxin Liu, Ziying Song, Zhi-Xin Yang, Fuxi Wen<br>
 *CVPR, 2026.* An RL framework that diagnoses persistent planning failures and feeds structured corrective samples back into policy optimization.<br>
 [[Paper](https://arxiv.org/abs/2603.01063)]
 
@@ -63,12 +74,21 @@ Yuechen Luo, **Fang Li**, Shaoqing Xu, Zhiyi Lai, Lei Yang, Qimao Chen, Ziang Lu
 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/publications/Last-VLA.png' alt='LaST-VLA main figure'></div><div class='paper-box-text' markdown='1'>
+<div class='paper-box'><div class='paper-box-image'><img src='images/publications/Last_VLA.png' alt='LaST-VLA main figure'></div><div class='paper-box-text' markdown='1'>
 
 **LaST-VLA: Thinking in Latent Spatio-Temporal Space for Vision-Language-Action in Autonomous Driving**<br>
 Yuechen Luo, **Fang Li**, Shaoqing Xu, Yang Ji, Zehan Zhang, Bing Wang, Yuannan Shen, Jianwei Cui, Long Chen, Guang Chen, Hangjun Ye, Zhi-Xin Yang, Fuxi Wen<br>
 *arXiv, 2026.* A physically grounded latent reasoning framework that aligns VLA representations with 3D geometry and future scene dynamics.<br>
 [[Paper](https://arxiv.org/abs/2603.01928)]
+
+</div></div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/publications/reflect-vla.png' alt='Reflect-VLA main figure'></div><div class='paper-box-text' markdown='1'>
+
+**Reflect-VLA: Internalizing Reflective Guidance via Dual-Path On-Policy Self-Distillation for Autonomous Driving**<br>
+Yuechen Luo, Chong He, **Fang Li**, Shaoqing Xu, Hexin Zhang, Ruiqi Zhang, Ziying Song, Lei Yang, Zhi-Xin Yang, Fuxi Wen<br>
+*arXiv, 2026.* A dual-path on-policy self-distillation framework that internalizes reflective corrective guidance for single-pass driving trajectory generation.<br>
+[[Paper](https://arxiv.org/abs/2610.13453)]
 
 </div></div>
 
@@ -93,7 +113,7 @@ Qimao Chen, **Fang Li**, Yuechen Luo, Zehan Zhang, Haiyang Sun, Fangzhen Li, Bin
 <div class='paper-box'><div class='paper-box-image'><img src='images/publications/VILTA.png' alt='VILTA main figure'></div><div class='paper-box-text' markdown='1'>
 
 **VILTA: A VLM-in-the-Loop Adversary for Enhancing Driving Policy Robustness**<br>
-Qimao Chen*, **Fang Li***, Shaoqing Xu*, Zhiyi Lai, Zixun Xie, Yuechen Luo, Shengyin Jiang, Hanbing Li, Long Chen, Bing Wang, Yi Zhang, Zhi-Xin Yang<br>
+Qimao Chen<sup>*</sup>, **Fang Li**<sup>*</sup>, Shaoqing Xu<sup>*</sup>, Zhiyi Lai, Zixun Xie, Yuechen Luo, Shengyin Jiang, Hanbing Li, Long Chen, Bing Wang, Yi Zhang, Zhi-Xin Yang<br>
 *AAAI, 2026.* A VLM-based trajectory adversary that generates challenging long-tail scenarios inside the closed-loop policy-training process.<br>
 [[Paper](https://arxiv.org/abs/2601.12672)]
 
@@ -122,7 +142,7 @@ Zhiyi Hou, Enhui Ma, **Fang Li**, Zhiyi Lai, Kalok Ho, Zhanqian Wu, Lijun Zhou, 
 <div class='paper-box'><div class='paper-box-image'><img src='images/publications/DVGT.png' alt='DVGT main figure'></div><div class='paper-box-text' markdown='1'>
 
 **DVGT: Driving Visual Geometry Transformer**<br>
-Sicheng Zuo*, Zixun Xie*, Wenzhao Zheng*, Shaoqing Xu, **Fang Li**, Shengyin Jiang, Long Chen, Zhi-Xin Yang, Jiwen Lu<br>
+Sicheng Zuo<sup>*</sup>, Zixun Xie<sup>*</sup>, Wenzhao Zheng<sup>*</sup>, Shaoqing Xu, **Fang Li**, Shengyin Jiang, Long Chen, Zhi-Xin Yang, Jiwen Lu<br>
 *CVPR, 2026.* A driving-oriented visual geometry foundation model for metric-scale dense 3D reconstruction from unposed multi-view image sequences.<br>
 [[Paper](https://arxiv.org/abs/2512.16919)] [[Code](https://github.com/wzzheng/DVGT)] [[Project](https://wzzheng.net/DVGT/)]
 
@@ -149,7 +169,7 @@ Shaoqing Xu, **Fang Li**, Peixiang Huang, Ziying Song, Zhi-Xin Yang<br>
 <div class='paper-box'><div class='paper-box-image'><img src='images/publications/SparseInteraction.png' alt='SparseInteraction main figure'></div><div class='paper-box-text' markdown='1'>
 
 **SparseInteraction: Sparse Semantic Guidance for Radar and Camera 3D Object Detection**<br>
-Shaoqing Xu*, Shengyin Jiang*, **Fang Li***, Li Liu, Ziying Song, Bo Yang, Zhi-Xin Yang<br>
+Shaoqing Xu<sup>*</sup>, Shengyin Jiang<sup>*</sup>, **Fang Li**<sup>*</sup>, Li Liu, Ziying Song, Bo Yang, Zhi-Xin Yang<br>
 *ACM Multimedia, 2024.* A sparse radar-camera interaction framework that filters noisy radar features and resolves positional ambiguity using image semantics.<br>
 [[Paper](https://doi.org/10.1145/3664647.3681565)] [[Code](https://github.com/GG-Bonds/SparseInteraction)]
 
@@ -165,6 +185,15 @@ Shaoqing Xu, **Fang Li**, Ziying Song, Jin Fang, Sifen Wang, Zhi-Xin Yang<br>
 </div></div> -->
 
 ### Embodied Intelligence and Vision Language Navigation
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/publications/omnibrain.jpg' alt='OmniBrain-0 main figure'></div><div class='paper-box-text' markdown='1'>
+
+**OmniBrain-0: A Unified Agentic Model for Embodied Intelligence**<br>
+Xiaomi Embodied Intelligence Team, Yuechen Luo, Chong He, **Fang Li**, Shaoqing Xu, Jingkai Wang, Menglun Su, Jiaxin Liu, Shengyin Jiang, et al.<br>
+*arXiv, 2026.* A compact unified embodied agent that coordinates manipulation and navigation through shared planning, progress tracking, and feedback-driven recovery.<br>
+[[Paper](https://arxiv.org/abs/2610.36013)] [[Project](https://public-bots.github.io/OmniBrain-0/)]
+
+</div></div>
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/publications/UCAG-P.png' alt='One Policy, Many Embodiments main figure'></div><div class='paper-box-text' markdown='1'>
 
@@ -186,7 +215,7 @@ Xiaomi Embodied Intelligence Team, Shaoqing Xu, **Fang Li**, Guozhi Zhan, Zhixia
 <div class='paper-box'><div class='paper-box-image'><img src='images/publications/Think_before_go.png' alt='Think before Go main figure'></div><div class='paper-box-text' markdown='1'>
 
 **Think before Go: Hierarchical Reasoning for Image-goal Navigation**<br>
-Pengna Li*, Kangyi Wu*, Shaoqing Xu, **Fang Li**, Lin Zhao, Long Chen, Zhi-Xin Yang, Nanning Zheng<br>
+Pengna Li<sup>*</sup>, Kangyi Wu<sup>*</sup>, Shaoqing Xu, **Fang Li**, Lin Zhao, Long Chen, Zhi-Xin Yang, Nanning Zheng<br>
 *ACL, 2026. Oral* A hierarchical navigation framework that combines VLM-based short-horizon reasoning with reinforcement-learning-based low-level execution.<br>
 [[Paper](https://arxiv.org/abs/2604.17407)]
 
