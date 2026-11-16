@@ -74,7 +74,7 @@ Yuechen Luo, **Fang Li**, Shaoqing Xu, Zhiyi Lai, Lei Yang, Qimao Chen, Ziang Lu
 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/publications/Last_VLA.png' alt='LaST-VLA main figure'></div><div class='paper-box-text' markdown='1'>
+<div class='paper-box'><div class='paper-box-image'><img src='images/publications/Last_VLA.jpg' alt='LaST-VLA main figure'></div><div class='paper-box-text' markdown='1'>
 
 **LaST-VLA: Thinking in Latent Spatio-Temporal Space for Vision-Language-Action in Autonomous Driving**<br>
 Yuechen Luo, **Fang Li**, Shaoqing Xu, Yang Ji, Zehan Zhang, Bing Wang, Yuannan Shen, Jianwei Cui, Long Chen, Guang Chen, Hangjun Ye, Zhi-Xin Yang, Fuxi Wen<br>
